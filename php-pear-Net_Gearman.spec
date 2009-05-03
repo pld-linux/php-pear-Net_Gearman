@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - A PHP interface to Danga's Gearman
 Summary(pl.UTF-8):	%{_pearname} - interfejs PHP do systemu Gearman
 Name:		php-pear-%{_pearname}
-Version:	0.2.1
+Version:	0.2.3
 Release:	1
 License:	New BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	053134d20419725e84a4286e4564fed4
+# Source0-md5:	bc5402ede86d7de797abe712dc538573
 URL:		http://pear.php.net/package/Net_Gearman/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11

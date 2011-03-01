@@ -7,7 +7,7 @@ Summary:	%{_pearname} - A PHP interface to Danga's Gearman
 Summary(pl.UTF-8):	%{_pearname} - interfejs PHP do systemu Gearman
 Name:		php-pear-%{_pearname}
 Version:	0.2.3
-Release:	2
+Release:	3
 License:	New BSD License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz

@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_class		Net
 %define		_subclass	Gearman
 %define		_status		alpha
